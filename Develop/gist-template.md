@@ -1,10 +1,11 @@
-# Title (replace with your title)
+# Title Matching a Hex Value
 
-Introductory paragraph (replace this with your text)
+In this tutorial were going to explain what matching a Hex Value is and how this can be useful
 
 ## Summary
+This md will be describing the breakdown of the following regex function of /^#? ([a-f0-9] {6}| [a-f0-9] {3})$/ which is used to match hex values.
+Cool tip Hex codes are hexidecimal codes in a format for identifying colors in specificity.
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 
 ## Table of Contents
 
@@ -20,7 +21,8 @@ Briefly summarize the regex you will be describing and what you will explain. In
 ## Regex Components
 
 ### Anchors
-
+the anchors of the Hex Value for the regex function is the /^ starting indicator and the $/ ending indicator the code.
+The anchors are essentially used to show the start and end of the expression
 ### Quantifiers
 
 ### Grouping Constructs
